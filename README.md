@@ -10,6 +10,5 @@
  - Learning new things 📘🌍
 
 ## Some unnecessary details 😅
-I did a lot of projects with collaboration with others and on my own as well, You can check them in
-my ["Start-up portfolio"](https://github.com/stars/amjadmak/lists/start-up-portfolio) list.
+I have my own portfolio website [Here](https://amjadmak.github.io/Potfolio-site/). I also did a lot of projects with collaboration with others and on my own as well, You can check them in my ["Start-up portfolio"](https://github.com/stars/amjadmak/lists/start-up-portfolio) list. 
 Enjoy your time ! 😊
